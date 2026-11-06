@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DynamicalModelerCorrect.vcxproj" Id="4e97dc46-8718-4b64-a4a5-8b497e1f9d9a" />
+</Solution>
